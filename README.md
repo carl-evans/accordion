@@ -1,6 +1,13 @@
-# Vanilla-Js-Accordion
+# About Vanilla Js Accordion
 Accessible accordion widget with less than 1kb of vanilla JavaScript and 3 lines of CSS. Style as you please!
 
+# Download
+git clone https://github.com/carl-evans/Vanilla-Js-Accordion.git
+
+# Usage
+Include the .min CSS and JavaScript files from the dist folder and use or refer to the markup in vanilla-js-accordion.html
+
+# Walkthrough
 <!-- walkthrough.html is simply a commented walkthrough showing how this accordion aims to be accessible
      all the classes on elements must be used for the accordion to work
      you should always use the .min files in a production environment to improve page load speed
