@@ -1,0 +1,3 @@
+.accordion-controls { list-style: none; }
+.accordion-controls__content { display: none; }
+.accordion-controls__content--active { display: block; }
